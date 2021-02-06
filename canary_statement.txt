@@ -1,0 +1,12 @@
+I have not recieved legal process that prevents me from saying it has been received.
+I am acting of my own free will.
+I am of sound mind.
+I am not being extorted or blackmaled by any entity.
+I feel safe and not threatened.
+
+Below is a text version of the current weather forecast for an area near my
+current residence, obtained via:
+
+* curl -s 'https://forecast.weather.gov/MapClick.php?lat=40.2333&lon=-74.7541&unit=0&lg=english&FcstType=text&TextType=1' | html2text
+
+
